@@ -501,6 +501,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 .plan .box-container {
+
   padding: 5rem 9%;
   display: -ms-grid;
   display: grid;
